@@ -1,0 +1,10 @@
+C:\Users\MALMO\source\repos\AttendanceControlSystem\AttendanceControlSystem\bin\Debug\AttendanceControlSystem.exe.config
+C:\Users\MALMO\source\repos\AttendanceControlSystem\AttendanceControlSystem\bin\Debug\AttendanceControlSystem.exe
+C:\Users\MALMO\source\repos\AttendanceControlSystem\AttendanceControlSystem\bin\Debug\AttendanceControlSystem.pdb
+C:\Users\MALMO\source\repos\AttendanceControlSystem\AttendanceControlSystem\obj\Debug\AttendanceControlSystem.Form1.resources
+C:\Users\MALMO\source\repos\AttendanceControlSystem\AttendanceControlSystem\obj\Debug\AttendanceControlSystem.Properties.Resources.resources
+C:\Users\MALMO\source\repos\AttendanceControlSystem\AttendanceControlSystem\obj\Debug\AttendanceControlSystem.csproj.GenerateResource.cache
+C:\Users\MALMO\source\repos\AttendanceControlSystem\AttendanceControlSystem\obj\Debug\AttendanceControlSystem.csproj.CoreCompileInputs.cache
+C:\Users\MALMO\source\repos\AttendanceControlSystem\AttendanceControlSystem\obj\Debug\AttendanceControlSystem.exe
+C:\Users\MALMO\source\repos\AttendanceControlSystem\AttendanceControlSystem\obj\Debug\AttendanceControlSystem.pdb
+C:\Users\MALMO\source\repos\AttendanceControlSystem\AttendanceControlSystem\obj\Debug\AttendanceControlSystem.csprojAssemblyReference.cache
